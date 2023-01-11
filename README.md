@@ -4,5 +4,4 @@ This tools fuction for check your email list registered on Github or not, This t
 if you wanna buy this tool contact me via Telegram or Email
 
 Email    : neubetools@proton.me
-
 Telegram : @neube
